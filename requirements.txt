@@ -1,0 +1,12 @@
+wikipedia
+langchain_openai
+langchainhub
+langchain_community 
+langchain_openai
+langchain_text_splitters 
+langchainhub
+streamlit
+arxiv
+langchain
+faiss-cpu
+load_dotenv
